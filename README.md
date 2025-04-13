@@ -1,10 +1,10 @@
 # Лабораторные работы по Python
 
 ## Файлы с кодом
-- [Лаба-1 в1.py](https://github.com/gulidovalera/Maksimuk_Uladzislau_Python_Labs/blob/Lab_1/Lab%201.py) - Лабораторная работа 1
-- [лаба2 (1).py](https://github.com/gulidovalera/laba/blob/лаба-1/Python/лаба2%20(1).py) - Лабораторная работа 2
-- [В3задание2(2).py](https://github.com/gulidovalera/laba/blob/лаба-1/Python/%23В3задание2(2).py), [В1задание1(2).py](https://github.com/gulidovalera/laba/blob/лаба-1/В1задание1(2).py) - Лабораторная работа 3
-- [лаба4_В3 биопитон с окном для файла.py](https://github.com/gulidovalera/laba/blob/лаба-1/Python/лаба4_В3%20биопитон%20с%20окном%20для%20файла.py) - Лабораторная работа 4
+- [Lab_1 в1.py](https://github.com/blydislove/Maksimuk_Uladzislau_Python_Labs/blob/Lab_1/Lab%201.py) - Лабораторная работа 1
+- [Lab_2.py](https://github.com/blydislove/Maksimuk_Uladzislau_Python_Labs/blob/Lab_1/Lab%202.py) - Лабораторная работа 2
+- [Lab 3_1.py](https://github.com/blydislove/Maksimuk_Uladzislau_Python_Labs/blob/Lab_1/Lab%203_1.py), [Lab 3_1.py](https://github.com/blydislove/Maksimuk_Uladzislau_Python_Labs/blob/Lab_1/Lab%203_2.py) - Лабораторная работа 3
+
 
 ---
 

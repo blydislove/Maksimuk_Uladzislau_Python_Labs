@@ -3,7 +3,7 @@
 ## Файлы с кодом
 - [Lab_1 в1.py](https://github.com/blydislove/Maksimuk_Uladzislau_Python_Labs/blob/Lab_1/Lab%201.py) - Лабораторная работа 1
 - [Lab_2.py](https://github.com/blydislove/Maksimuk_Uladzislau_Python_Labs/blob/Lab_1/Lab%202.py) - Лабораторная работа 2
-- [Lab 3_1.py](https://github.com/blydislove/Maksimuk_Uladzislau_Python_Labs/blob/Lab_1/Lab%203_1.py), [Lab 3_1.py](https://github.com/blydislove/Maksimuk_Uladzislau_Python_Labs/blob/Lab_1/Lab%203_2.py) - Лабораторная работа 3
+- [Lab 3_1.py](https://github.com/blydislove/Maksimuk_Uladzislau_Python_Labs/blob/Lab_1/Lab%203_1.py), [Lab 3_2.py](https://github.com/blydislove/Maksimuk_Uladzislau_Python_Labs/blob/Lab_1/Lab%203_2.py) - Лабораторная работа 3
 
 
 ---

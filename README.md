@@ -297,7 +297,7 @@ plt.xticks(range(1870, 1911, 5))
   - Для каждой последовательности вычислить GC-состав по формуле:
 
 ```math 
-GC=(Amount(G+C)/(Sequence_length)
+/dfrac{GC=Amount(G+C)}{Sequence_length}
 ``` 
 
 
